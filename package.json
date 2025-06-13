@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/DucThang09/Nodejs-basic/issues"
   },
-  "homepage": "https://github.com/DucThang09/Nodejs-basic#readme"
+  "homepage": "https://github.com/DucThang09/Nodejs-basic#readme",
+  "dependencies": {
+    "express": "5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "5.0.0",
+    "@types/node": "22.10.7",
+    "typescript": "5.7.3"
+  }
 }
